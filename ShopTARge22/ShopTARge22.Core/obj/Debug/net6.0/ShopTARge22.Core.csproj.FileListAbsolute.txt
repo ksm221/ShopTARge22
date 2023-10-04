@@ -1,0 +1,12 @@
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\bin\Debug\net6.0\ShopTARge22.Core.deps.json
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\bin\Debug\net6.0\ShopTARge22.Core.dll
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\bin\Debug\net6.0\ShopTARge22.Core.pdb
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.csproj.AssemblyReference.cache
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.AssemblyInfo.cs
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.dll
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\refint\ShopTARge22.Core.dll
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ShopTARge22.Core.pdb
+C:\Users\Karl\Desktop\ing\ShopTARge22-master\ShopTARge22\ShopTARge22.Core\obj\Debug\net6.0\ref\ShopTARge22.Core.dll

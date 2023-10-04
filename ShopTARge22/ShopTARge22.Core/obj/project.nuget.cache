@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "twHcvKNMTYWQU5GQdSiO2fYIc4HwQrRLUeuFwlotHM97V4Q+RhqwQFWNiJCNL/iYnDQNhBzUiBj9ilQg0SU2+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karl\\Desktop\\ing\\ShopTARge22-master\\ShopTARge22\\ShopTARge22.Core\\ShopTARge22.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karl\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Karl\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Karl\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
